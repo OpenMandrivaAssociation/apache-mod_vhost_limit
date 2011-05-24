@@ -7,7 +7,7 @@
 Summary:	Restrict the number of simultaneous connections per vhost
 Name:		apache-%{mod_name}
 Version:	0.2
-Release:	%mkrel 7
+Release:	%mkrel 8
 Group:		System/Servers
 License:	Apache License
 URL:		http://apache.ivn.cl/
