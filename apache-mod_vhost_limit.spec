@@ -10,7 +10,7 @@ Version:	0.2
 Release:	%mkrel 9
 Group:		System/Servers
 License:	Apache License
-URL:		http://apache.ivn.cl/
+URL:		https://apache.ivn.cl/
 Source0:	http://apache.ivn.cl/files/source/%{mod_name}-%{version}.tgz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
